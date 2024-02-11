@@ -1,8 +1,11 @@
 # Dharmil_Patel
-Task : Exploratory Data Analysis - Sports
 
-Objective : Exploratory Data Analysis on Dataset IPL to find out the most successful teams, players and factors
+Exploratory Data Analysis - Sports
 
-contributing win or loss of a team.
+
+![ipl-bcci-logo](https://github.com/Dnp82/Dharmil_Patel/assets/60810104/bcea32ed-a29b-4cc2-ae08-eba81d5495b8)
+
+
+Objective : Delve into IPL data to find the best teams, players, and what makes teams win or lose. By looking closely at the numbers, we aim to understand what strategies work, which players shine, and what factors decide the game's outcome. Our goal is to help teams and fans better understand the game and make smarter decisions for future matches.
 
 Libraries : NumPy, Pandas, Matplotlib, Seaborn
